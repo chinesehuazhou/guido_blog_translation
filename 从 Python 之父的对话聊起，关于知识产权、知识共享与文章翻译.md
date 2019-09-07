@@ -1,7 +1,5 @@
 # 从 Python 之父的对话聊起，关于知识产权、知识共享与文章翻译
 
-![](http://ww1.sinaimg.cn/large/68b02e3bly1g67oqe04moj24mo334hdv.jpg)
-
 ## 一、缘起
 
 前不久，我在翻译 Guido van Rossum（Python之父）的文章时，给他留言，申请非商业用途的翻译授权。
