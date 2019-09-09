@@ -29,4 +29,4 @@
 
 
 
-已建微信交流群，加豌豆花下猫（id：chinesehuazhou），邀请入群
+【交流翻译】【参与翻译】已建微信交流群，加豌豆花下猫（id：chinesehuazhou），邀请入群
