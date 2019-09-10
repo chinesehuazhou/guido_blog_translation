@@ -5,9 +5,7 @@ Guido van Rossum，Python 的创造者，一直是“终身仁慈独裁者”，
 
 2019 年 7 月 22 日，Guido 在 Medium 上开通了博客（[个人主页](https://medium.com/@gvanrossum_83706) ），开始连载 PEG 解析器系列，计划以该解析器替换当前的 pgen 解析器。并立下 flag：每周日更新一篇。
 
-文章目录：[https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60)
-
-文章的授权许可：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+文章目录：[系列概览 ](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60) ，授权许可：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
 ## 翻译进度：
 
@@ -33,7 +31,9 @@ Guido van Rossum，Python 的创造者，一直是“终身仁慈独裁者”，
 
 ## 翻译交流：
 
-目前，译者只有豌豆花下猫，欢迎感兴趣的同学加入翻译。已建交流群，请加豌豆花下猫（微信：chinesehuazhou），邀请入群。
+目前，译者只有豌豆花下猫，欢迎感兴趣的同学加入翻译。
+
+已建交流群，请加豌豆花下猫（微信：chinesehuazhou），邀请入群。
 
 个人能力有限，翻译匆促，请读者批评指正！
 
