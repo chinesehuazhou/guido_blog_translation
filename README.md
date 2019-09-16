@@ -21,7 +21,9 @@ Guido van Rossum，Python 的创造者，一直是“终身仁慈独裁者”，
 
 6、[系列之六：给 PEG 语法添加动作](https://github.com/chinesehuazhou/guido_blog_translation/blob/master/%E8%A7%A3%E6%9E%90%E5%99%A8%E7%B3%BB%E5%88%97%E4%B9%8B%E5%85%AD%EF%BC%9A%E7%BB%99%20PEG%20%E8%AF%AD%E6%B3%95%E6%B7%BB%E5%8A%A0%E5%8A%A8%E4%BD%9C.md)
 
-7、9.10 发布，待译
+7、9.10 发布，在译ing
+
+8、9.14 发布，待译
 
 ## 番外篇：
 
